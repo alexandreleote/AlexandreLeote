@@ -10,7 +10,7 @@ I am learning several languages at the moment but for now I am at ease with some
   </a>
 </p>
 
-I live in France, born in Alsace, Mulhouse. I have lived most of my life around there and now I am in Strasbourg.
+I live in France, was born in Alsace, Mulhouse and now I live in Strasbourg for the moment.
 During my freetime I tend to spend it between visiting my family, seeing my friends but also playing board games as well as video games.
 If you give me the possibility to talk about RPGs, I might spend a lot of time talking about Final Fantasy... Up to you ! 
 <!--
