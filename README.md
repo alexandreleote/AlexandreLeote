@@ -5,7 +5,7 @@ Well hello there 👋
 I'm Alexandre, I'm 29 years old and fairly new to the world of coding. I always wanted to become a full time developer and as of today I have started my training in order to be a real asset in the future.
 I am learning several languages at the moment but for now I am at ease with some of them above.
 
-You will find some more information about myself here or on my [LinkedIn](https://www.linkedin.com/in/alexandre-leote/){:target="_blank" rel="noopener"} !
+You will find some more information about myself here or on my [LinkedIn](https://www.linkedin.com/in/alexandre-leote/) !
 
 
 
