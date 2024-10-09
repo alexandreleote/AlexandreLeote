@@ -15,7 +15,7 @@ And hope to read from you soon !
 <div align="center">
   <p align="center"><strong>My Developer's Stats</strong> :</p>
   <img src="https://github-readme-stats.vercel.app/api?username=alexandreleote&theme=algolia&show_icons=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandreleote&theme=algolia&layout=compact" width="415">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandreleote&theme=algolia&layout=compact" width="400">
 </div>
 
 <br>
