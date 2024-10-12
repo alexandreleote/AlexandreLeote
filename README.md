@@ -1,6 +1,6 @@
-![alexbanner_Plan de travail](https://github.com/user-attachments/assets/633f7c80-0a26-4357-a980-72298aba9bf9)
+![alexbanner-GH](https://github.com/user-attachments/assets/0b1b876b-e3c9-47e7-83be-7486e4beb7fe)
 
-Well, hello there 👋🏻 
+# Well, hello there 👋🏻 
 
 Nice to see you here, I'm Alexandre. I'm 29 years old and I have recently taken a new step into the web development's epic journey.
 After several years working in another field, I have decided to train myself and finally get into what I always wanted to do : **coding** ! 👨🏻‍💻
@@ -12,10 +12,18 @@ You will find some more information about myself below or on my [LinkedIn](https
 And hope to read from you soon !
 
 <br>
+
+## About my activity 📊
 <div align="center">
   <p align="center"><strong>My Developer's Stats</strong> :</p>
-  <img src="https://github-readme-stats.vercel.app/api?username=alexandreleote&theme=algolia&show_icons=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandreleote&theme=algolia&layout=compact" width="400">
+  <table>
+    <tbody>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=alexandreleote&theme=algolia&show_icons=true">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandreleote&theme=algolia&layout=compact" width="400">
+      </td>
+    </tbody>
+  </table>
 </div>
 
 <br>
@@ -56,7 +64,7 @@ I am learning several languages at the moment but for now I am at ease with some
     <img src="https://skillicons.dev/icons?i=html,css,js,php" />
   </a>
 </p>
-
+![alexbanner_Plan de travail](https://github.com/user-attachments/assets/633f7c80-0a26-4357-a980-72298aba9bf9)
 I live in France, was born in Alsace, Mulhouse and now I live in Strasbourg for the moment.
 During my freetime I tend to spend it between visiting my family, seeing my friends but also playing board games as well as video games.
 If you give me the possibility to talk about RPGs, I might spend a lot of time talking about Final Fantasy... Up to you ! 
