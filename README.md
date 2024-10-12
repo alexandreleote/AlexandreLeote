@@ -19,7 +19,7 @@ And hope to read from you soon !
   <table>
     <tbody>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=alexandreleote&theme=algolia&show_icons=true">
+        <img src="https://github-readme-stats.vercel.app/api?username=alexandreleote&theme=algolia&show_icons=true" witdh="300">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandreleote&theme=algolia&layout=compact" width="400">
       </td>
     </tbody>
