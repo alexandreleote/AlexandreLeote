@@ -2,14 +2,13 @@
 
 # Well, hello there 👋🏻 
 
-Nice to see you here, I'm Alexandre. I'm 29 years old and I have recently taken a new step into the web development's epic journey.
-After several years working in another field, I have decided to train myself and finally get into what I always wanted to do : **coding** ! 👨🏻‍💻
-I am looking for new ways of coding applications, websites and anything that could be either useful or entertaining.
+Nice to see you here! I'm Alexandre, 29 years old, and I've recently embarked on an exciting journey into web development. After several years in a different field, I decided to train myself and finally pursue my passion for **coding** ! 👨🏻‍💻
+I’m eager to explore new ways to create applications, websites, and anything that can be both useful and entertaining.
 
-I have always been interested in video games, how they were made, the way people coded this specific function in order to make a skill for the main character for instance.
+I’ve always been fascinated by video games—especially how they’re made and how specific functions are coded to create skills for the main character, for instance.
 
-You will find some more information about myself below or on my [LinkedIn](https://www.linkedin.com/in/alexandre-leote/) ! Have a look. 😉
-And hope to read from you soon !
+You can find more information about me below or on my  [LinkedIn](https://www.linkedin.com/in/alexandre-leote/) ! Feel free to take a look. 😉
+I hope to hear from you soon!
 
 <br>
 
